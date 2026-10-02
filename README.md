@@ -16,7 +16,7 @@ BepInEx
         └── mods
             └── *Put here*
 
-Music file (BGN)
+Music file (BGM)
 1. Download the file and add it in Lethe\Sound. If you do not have a Sound folder, make a folder name "Sound"
 
 Structure:
