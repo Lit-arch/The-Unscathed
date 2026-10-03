@@ -8,5 +8,21 @@ Instructions how to download:
 Main file (GlassFixer-Main)
 1. Download the main file and put it to your mods folder. (Lethe\mods\)
 
-Music file (BGN)
+Structure:
+
+BepInEx
+└── plugins
+    └── Lethe
+        └── mods
+            └── *Put here*
+
+Music file (BGM)
 1. Download the file and add it in Lethe\Sound. If you do not have a Sound folder, make a folder name "Sound"
+
+Structure:
+
+BepInEx
+└── plugins
+    └── Lethe
+        └── Sound
+              └── *Put here*
